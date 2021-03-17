@@ -1,6 +1,7 @@
 # rxdb-filefolder
 
 npm install
+
 npm run server
 
 see database.ts to reproduce issue:
